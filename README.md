@@ -140,8 +140,6 @@ hash - The hash of one block created before
 
 **Example**
 
-<img src="">
-
 
 ### 6. Get block by address
 
